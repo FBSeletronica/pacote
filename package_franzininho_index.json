@@ -9,7 +9,7 @@
 
       "platforms": [
         {
-          "name": "Watterott AVR Boards (dependency: Arduino AVR Boards)",
+          "name": "Franzininho AVR Boards (dependency: Arduino AVR Boards)",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "contributed",
