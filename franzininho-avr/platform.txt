@@ -2,7 +2,7 @@
 # Watterott AVR Core and Platform
 # -------------------------------
 
-name=Watterott AVR Boards
+name=Placas Franzininho
 version=1.0.0
 
 # AVR compile variables
