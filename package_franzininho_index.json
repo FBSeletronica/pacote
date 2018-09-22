@@ -5,7 +5,7 @@
       "maintainer": "Franzininho educacional",
       "websiteURL": "http://www.franzininho.com.br",
       "email": "",
-      "help": {"online": "http://www.franzininho.com.br"},
+      "help": {"online": "https://franzininho.gitbook.io/franzininho-docs/"},
 
       "platforms": [
         {
@@ -18,8 +18,8 @@
           "archiveFileName": "franzininho-avr.zip",
           "size": "1445934",
           "boards": [
-            {"name": "Franzininho 841"},
-            {"name": "Franzininho DIY"}
+            {"name": "Franzininho tiny841"},
+            {"name": "Franzininho DIY(tiny85)"}
           ],
           "toolsDependencies": [
             {
