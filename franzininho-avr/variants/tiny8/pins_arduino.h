@@ -85,6 +85,7 @@ static const uint8_t A3 = PIN_A3;
 
 #define NUM_DIGITAL_PINS            6
 #define NUM_ANALOG_INPUTS           4
+#define LED_BUILTIN 				1
 
 #define analogInputToDigitalPin(p)  ( ((p) == 0) ? 5 : (((p) == 1) ? 2 : (((p) == 2) ? 4 :(((p) == 3) ? 3 : -1))) )
 #define analogPinToChannel(p)       ( (p) < 6 ? (p) : (p) - 6 )

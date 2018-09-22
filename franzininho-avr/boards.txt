@@ -7,7 +7,7 @@ menu.msg=Info
 
 
 # ATtiny841 @ internal 8MHz
-tiny841.name=Franzininho 841
+tiny841.name=Franzininho tiny841
 # use Standard Arduino Core
 tiny841.menu.core.arduino=Standard Arduino
 tiny841.menu.core.arduino.build.core=arduino:arduino
@@ -45,7 +45,7 @@ tiny841.build.board=AVR_ATTINY841
 
 
 # ATtiny85 @ internal 16.5MHz
-tiny85.name= Franzininho DIY
+tiny85.name= Franzininho DIY (tiny85)
 # use Standard Arduino Core
 tiny85.menu.core.arduino=Standard Arduino
 tiny85.menu.core.arduino.build.core=arduino:arduino
