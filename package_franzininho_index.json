@@ -38,9 +38,9 @@
           "systems": [
             {
                 "host":"i686-mingw32",
-                "url":"https://github.com/watterott/Arduino-Boards/raw/master/files/micronucleus-win32.zip",
-                "archiveFileName":"micronucleus-2.0a4-win32.zip",
-                "size":"13187"
+                "url":"https://github.com/JoaoSenirio/pacote/blob/package_upgrade/tools_file/micronucleus-win32.zip",
+                "archiveFileName":"micronucleus-win32.zip",
+                "size":"39499"
             },
             {
                 "host":"x86_64-linux-gnu",
