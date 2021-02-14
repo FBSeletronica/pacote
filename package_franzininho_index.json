@@ -37,10 +37,16 @@
           "version":"2.0a4",
           "systems": [
             {
-                "host":"i686-mingw32",
-                "url":"https://github.com/JoaoSenirio/pacote/blob/package_upgrade/tools_file/micronucleus-win32.zip?raw=true",
-                "archiveFileName":"micronucleus-win32.zip",
-                "size":"39691"
+              "host":"i686-mingw32",
+              "url":"https://github.com/JoaoSenirio/pacote/blob/package_upgrade/tools_file/micronucleus-1.0.0-win.zip?raw=true",
+              "archiveFileName":"micronucleus-1.0.0-win.zip",
+              "size":"39688"
+            },
+            {
+              "host":"x86_64-linux-gnu",
+              "url":"https://github.com/JoaoSenirio/pacote/blob/package_upgrade/tools_file/micronucleus-1.0.0-linux-x86_64.zip?raw=true",
+              "archiveFileName":"micronucleus-1.0.0-linux-x86_64.zip",
+              "size":"22010"
             }
           ]
         }
