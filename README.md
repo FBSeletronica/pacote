@@ -5,13 +5,15 @@ Em computadores com **sistema operacional Windows** faz-se necessário a instala
 
 A versão mais recente da ferramenta *Zadig driver installer* para download pode ser encontrada [aqui](https://zadig.akeo.ie/).
 
-1. Imagem indicando o download 
-2. Execução do Zadig e "load preset device" + .cfg Micronucleus
-3. Escolha de libusb (v1.2.6.0)
-4. Install Driver
+### Download 
+![](/windows_driver/Download_image.png)
+* Execução do Zadig e "load preset device" + .cfg Micronucleus
+* Escolha de libusb (v1.2.6.0)
+* Install Driver
 
 
 
 
 
 
+  
