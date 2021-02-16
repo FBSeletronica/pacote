@@ -7,8 +7,9 @@ A versão mais recente da ferramenta *Zadig driver installer* para download pode
 
 ### Download 
 ![](/windows_driver/Download_image.png)
+
 ### Execução do Zadig 
-1. Baixe o arquivo Micronucleus.cfg
+1. Baixe o arquivo Micronucleus.zip [aqui](https://github.com/JoaoSenirio/pacote/blob/package_upgrade/windows_driver/micronucleus.zip?raw=true) e o descompacte
 2. Vá em Device -> Load Preset Device e procure pelo arquivo baixado: Micronucleus.cfg
 3. Na escolha do driver, determine a libusb-win32(v1.2.6.0)
 
